@@ -1,0 +1,48 @@
+ALAPSTATISZTIKÁK
+Válaszadók száma: 47
+Átlag pontszám: 50.28
+Minimum pontszám: 27
+Maximum pontszám: 69
+
+KATEGÓRIÁK SZERINTI ELOSZLÁS
+Alacsony: 6
+Közepes: 24
+Magas: 17
+
+KÉPERNYŐIDŐ SZERINTI DARABSZÁM
+1 óránál kevesebb: 5
+1–3 óra: 16
+3–5 óra: 16
+5–7 óra: 3
+7 óránál több: 7
+
+KÉPERNYŐIDŐ SZERINTI ÁTLAGPONTSZÁM ÉS ELEMSZÁM
+1 óránál kevesebb: átlag = 45.80; n = 5
+1–3 óra: átlag = 51.94; n = 16
+3–5 óra: átlag = 49.00; n = 16
+5–7 óra: átlag = 41.00; n = 3
+7 óránál több: átlag = 56.57; n = 7
+
+NEM SZERINTI ÁTLAGPONTSZÁM ÉS ELEMSZÁM
+Férfi: átlag = 52.13; n = 15
+Nő: átlag = 49.41; n = 32
+
+KORCSOPORT SZERINTI ÁTLAGPONTSZÁM ÉS ELEMSZÁM
+18–25 év: átlag = 52.83; n = 12
+50 év felett: átlag = 50.10; n = 10
+36–50 év: átlag = 49.39; n = 23
+26–35 év: átlag = 46.00; n = 2
+
+LAKHELY SZERINTI ÁTLAGPONTSZÁM ÉS ELEMSZÁM
+Nagyközség: átlag = 60.00; n = 2
+Község/falu: átlag = 57.00; n = 4
+Megyeszékhely: átlag = 53.00; n = 6
+Város: átlag = 48.49; n = 35
+
+ISKOLAI VÉGZETTSÉG SZERINTI ÁTLAGPONTSZÁM ÉS ELEMSZÁM
+Egyetemi mesterképzés: átlag = 57.00; n = 2
+Egyetemi alapképzés: átlag = 55.71; n = 7
+Felsőfokú szakképzés: átlag = 55.78; n = 9
+Érettségi: átlag = 48.62; n = 16
+Szakiskola / Szakképzés / Szakmunkásképző: átlag = 43.09; n = 11
+Alapfokú végzettség (8 általános vagy kevesebb): átlag = 52.50; n = 2
